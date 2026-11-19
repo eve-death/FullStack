@@ -1,2 +1,6 @@
 Lista de Compras Mercado
+=======
 1. Coca-cola Zero
+2. Morango
+3. Kiwi
+
